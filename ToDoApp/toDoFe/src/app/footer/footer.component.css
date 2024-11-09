@@ -1,0 +1,31 @@
+
+footer {
+    background-color: #e4ce0aad;
+    padding: 20px 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .social-media a {
+    color: #555;
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .social-media a:hover {
+    color: #000;
+  }
+  
+  .fa-facebook, .fa-twitter, .fa-instagram {
+    transition: color 0.3s ease;
+  }
+  
+  .copyright {
+    color: black;
+    font-size: 17px;
+  }
+
